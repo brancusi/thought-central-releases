@@ -1,11 +1,12 @@
-# ThoughtBar releases
+# Thought Central releases
 
-Signed, notarized builds of **ThoughtBar**, the macOS menu bar app for
+Signed, notarized builds of **Thought Central**, the macOS menu bar app for
 [thought-central](https://github.com/brancusi/thought-central), with its own `thc` command line tool.
+(Up to 0.2.0 it was called ThoughtBar; those builds can't launch, so please install 0.2.1 or later.)
 
-**[Download the latest ThoughtBar (DMG)](https://github.com/brancusi/thought-central-releases/releases/latest/download/ThoughtBar.dmg)**
+**[Download the latest Thought Central (DMG)](https://github.com/brancusi/thought-central-releases/releases/latest/download/Thought-Central.dmg)**
 
-Apple silicon, macOS 14 or later. Open the DMG and drag ThoughtBar to Applications.
+Apple silicon, macOS 14 or later. Open the DMG and drag Thought Central to Applications.
 
 From a terminal (installs the app and links `thc`; checks the signature and notarization first):
 
